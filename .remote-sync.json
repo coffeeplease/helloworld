@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "ftp.danmorton.ca",
+  "port": "21",
+  "target": "/react.danmorton.ca",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "danmtlmp",
+  "password": "Ottawa10",
+  "watch": [],
+  "transport": "ftp"
+}
